@@ -50,8 +50,9 @@
 42. [{ 选修 } S9上（超级动作，程序动画）无需动画文件，实现真正的瞄跑步动作和手部晃动](https://github.com/unreal-engine-channel/FPS-PVE/commit/7fe5d5fb8e6ea688543aefc2d6a3ca2b1dd146c9)
 43. [{ 选修 } S9下（超级动作，程序动画）优化跑步手臂晃动](https://github.com/unreal-engine-channel/FPS-PVE/commit/0a348ee9cfe0ab7d98d5eddefd052ad967e19361)
 
-44. [特殊必看] Debug篇：解决换弹计算，跑步开火问题
+44. [[特殊必看] Debug篇：解决换弹计算，跑步开火问题](https://github.com/unreal-engine-channel/FPS-PVE/commit/8d2bc35bf1ad33ac12f3b96686806ebbdfff9230)
 
-45. [特殊必看] Debug第二篇：修复AI在一条直线上第一个死亡第二个很难打死打中的问题
+45. [[特殊必看] Debug第二篇：修复AI在一条直线上第一个死亡第二个很难打死打中的问题](https://github.com/unreal-engine-channel/FPS-PVE/commit/21541f5d0abb78846604940acdbdc4085f050d5b)
 
-46. [特殊必看] Debug第三篇：解决AI只跟随一个，AI不跟随，机瞄跑步错误
+46. [[特殊必看] Debug第三篇：解决AI只跟随一个，AI不跟随，机瞄跑步错误](https://github.com/unreal-engine-channel/FPS-PVE/commit/7a037865ca0c7232713ebeddfce5d1f30f25bd02)
+
